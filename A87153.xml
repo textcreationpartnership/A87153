@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters written by Mr Harris in vindication of himselfe from the known slanders of an unknown author. To my reverend friend M. Harris. Sir, it will not (I hope) offend you to see your private letters made publique, it concernes you, and others, to vindicate your selves in the catching age, and the sooner 'tis done the better, chide me if you will, yet I will be yours still, W.T. May 2. 1648.</title>
+            <author>Harris, Robert, 1581-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87153</idno>
+            <idno type="STC">Wing H879</idno>
+            <idno type="STC">Thomason E437_28</idno>
+            <idno type="STC">ESTC R202372</idno>
+            <idno type="EEBO-CITATION">99862685</idno>
+            <idno type="PROQUEST">99862685</idno>
+            <idno type="VID">161643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161643)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters written by Mr Harris in vindication of himselfe from the known slanders of an unknown author. To my reverend friend M. Harris. Sir, it will not (I hope) offend you to see your private letters made publique, it concernes you, and others, to vindicate your selves in the catching age, and the sooner 'tis done the better, chide me if you will, yet I will be yours still, W.T. May 2. 1648.</title>
+                  <author>Harris, Robert, 1581-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Leonard Lichfield],</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>in the yeare. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mr. Harris = Robert Harris.</note>
+                  <note>A reply to: Barlow, Thomas.  Pegasus.</note>
+                  <note>Place of publication and printer's name from Wing.</note>
+                  <note>The letter on the title page is attributed to Harris himself.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barlow, Thomas, 1607-1691. --  Pegasus --  Early works to 1800.</term>
+               <term>Church of England --  Benefices --  Early works to 1800.</term>
+               <term>University of Oxford --  History --  Early works to 1800.</term>
+               <term>Visitations, Ecclesiastical --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161643:1" rendition="simple:additions"/>
+            <p>TWO LETTERS Written by M<hi rend="sup">r</hi> HARRIS In Vindication of Himſelfe from the known ſlanders of an unknown Author.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To my Reverend friend M. <hi>Harris.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>IT will not (I hope) offend you to ſee your pri<g ref="char:EOLhyphen"/>vate Letters made publique, it concernes you, and others, to vindicate your ſelves in this Catching age, and the ſooner 'tis done the better, Chide me if you will, yet I will be</p>
+                  <closer>
+                     <signed>Yours ſtill, W. T.</signed>
+                     <dateline>
+                        <date>May 2. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed in the Years 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:161643:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O Your three Queries, touching
+<list>
+                  <item>1. <hi>Non-reſi<g ref="char:EOLhyphen"/>dency,</hi>
+                  </item>
+                  <item>2. Exchange of Churches,</item>
+                  <item>3. And my Pluralities,</item>
+               </list>
+I pray ac<g ref="char:EOLhyphen"/>cept (in this my haſte) this ſhort anſwere. For the firſt, I am ſtill the ſame (whether you ſpeake of the <hi>Locus</hi> or <hi>Officium</hi>) that then I was, when I Preached and Publiſhed that my <hi>Concio ad Clerum</hi> in your hands.</p>
+            <p>For the ſecond, I conceive that a Paſtor in his removes ſhould be rather Paſſive then Active, and fit downe by the concluſion of old <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>For the third, I muſt needs ſay more then ever I inten<g ref="char:EOLhyphen"/>ded, by reaſon of a freſh charge upon me from <hi>Oxford</hi> this inſtant <hi>Aprill.</hi> I acknowledge a double error.</p>
+            <list>
+               <item>1. That I yeelded ſo farre, as to beare the name of ſome livings, 'till ſome unwelcome ſuitors were ſlaved off, and others more deſired were wrought in.</item>
+               <item>2. That I was too confident, that no man would con<g ref="char:EOLhyphen"/>ceive that I intended to hold foure or five livings at theſe years, being ſo neare my grave, and at this time, When pluralities are ſo decryed and damned, eſpecially ſeeing in my younger daies, I ſatisfied my ſelfe with one ſmall
+<pb n="3" facs="tcp:161643:2"/>Benefice, though then I had offers of more, and that then when <hi>Non-reſidency</hi> was more in faſhion and credit, and more diſpenſable then now it is. Thus farre I have erred, and for this I crave pardon. But now whereas it is pre<g ref="char:EOLhyphen"/>tended that filthy lucre hath ſo farre tranſported mee that I have heaped Living upon Living to a great num<g ref="char:EOLhyphen"/>ber, and to no leſſe a value, then 14. or 1500<hi rend="sup">l</hi> 
+                  <hi>per annum,</hi> I doe profeſſe unto you in the words of Truth and Sobrie<g ref="char:EOLhyphen"/>ty, I never yet received 300<hi rend="sup">l</hi> 
+                  <hi>per annum declaro</hi> in one yeare from any Church Living or Livings, and whereas an audit is made of the very particulars, be not weary if I touch upon each particular. The firſt inſtance is <hi>Hanwell,</hi> there I lived forty years, and there had died, had I not been called away by publique Order, and before I might returne, my Living and Goods ſeized to anothers uſe. During which my abſence, I was never called to any ſet<g ref="char:EOLhyphen"/>led, though invited to many ſequeſtred places, The firſt place I undertook, when <hi>Hanwell</hi> was taken away, was that at <hi>Bhiſhops-gate</hi> (not daring to venture upon that at the Temple) there I was (at the Parliaments pleaſure) till <hi>Hanwell</hi> was againe opened unto mee, touching which I cannot give you a full account without ſome trouble to you, and ſome reflection upon deareſt friends, only this in ſumme. I am ſo willing to owne that for my old love (as <hi>Pegaſus</hi> tearmes it) that I preferre it to any place in the World, were there ſutable accommodations, but the parſonage houſe being defaced, the Mounds and Standards removed, many of my Goods, Books, and o<g ref="char:EOLhyphen"/>ther implements and utenſils Pillaged, my own proper Houſes thereabouts, turned to aſhes by the fury of flame and Sword, It was not in my power to repaire my ſelfe, nor in the Peoples to recruit me: true it is; ſome over<g ref="char:EOLhyphen"/>tures have been made, ſome time ſpent in projecting a re<g ref="char:EOLhyphen"/>ſettlement, but obſtructions have been very great. Mean<g ref="char:EOLhyphen"/>while, what offers have been made on my part, what ſuits on the Peoples part, how the place hath been ſup<g ref="char:EOLhyphen"/>plied
+<pb n="4" facs="tcp:161643:3"/>what monies have come at any time to my purſe (Souldiers, Aſſiſtants and other emergencies anſwered) I had rather the moſt knowing Inhabitants would ſpeake then my ſelfe, who (I believe) will ſmile at <hi>Pegaſus</hi> his A<g ref="char:EOLhyphen"/>rithmetique in ſumming all up to 160<hi rend="sup">l</hi> 
+                  <hi>per annum</hi> with an &amp;c.</item>
+            </list>
+            <p>The Second place is <hi>Biſhops-gate,</hi> how neare that reach<g ref="char:EOLhyphen"/>eth to 400<hi rend="sup">l</hi> 
+               <hi>per annum,</hi> M. <hi>Fuller</hi> (there ſetled) by this time finds, would this Auditor help me to my arrear's for times paſt, he ſhould have my now hundreds thence, for one of his <hi>Pegaſus</hi> ſhooe-nailes.</p>
+            <p>The third is <hi>Hanbury,</hi> It pleaſed <hi>Oxford-ſhire</hi> Committee, out of their good thoughts of me and deſire of my Neigh<g ref="char:EOLhyphen"/>bourhood, to deſigne that for me, yea to ſend me (with<g ref="char:EOLhyphen"/>out my ſuite) an order for it, this I kept by me a while, and in fine deſired them to excuſe me, and how ever I might (if I would) have made ſome profit of the place, yet I aſſure you, and the Pariſhioners will atteſt the ſame, the place was never worth 3<hi rend="sup">d</hi> to me; whether in it ſelfe it a<g ref="char:EOLhyphen"/>mounts to towards 300<hi rend="sup">l</hi> or no, M. <hi>Rogers</hi> (the Incum<g ref="char:EOLhyphen"/>bent) beſt knowes, and this reporter (within ſixe miles of the place) may know the truth in the premiſes, if it be not grievous to him to know the truth and my inno<g ref="char:EOLhyphen"/>cency.</p>
+            <p>Now comes ſequeſtred <hi>Peterfield,</hi> then to be left when I goe to <hi>Oxford:</hi> this is not above forſooth 5. or 600<hi rend="sup">l</hi> 
+               <hi>per annum,</hi> warily ſpoken, he might have made another re<g ref="char:EOLhyphen"/>move, and ſaid not above ſo many 1000<hi rend="sup">l</hi>, what 'tis in this negative and indefinite way it skilles not much, what I have received, the Sequeſtrator hath aſſerted under his hand, and if <hi>Pegaſus</hi> will give me 150<hi rend="sup">l</hi> for my 500<hi rend="sup">l</hi> 
+               <hi>per an<g ref="char:EOLhyphen"/>num</hi> (all things diſcharged) I will give him Bridle and Saddle into the bargaine.</p>
+            <p>As for his 4<hi rend="sup">s</hi> 
+               <hi>per diem</hi> in the Aſſembly, he underſtands as little how and to whom that is paid, as I doe of his 10<hi rend="sup">s</hi> for Apoſtle-ſhip in <hi>Oxford</hi> vaine man, who is at leiſure
+<pb n="5" facs="tcp:161643:3"/>thus to throw away time, and to pleaſe himſelfe in his own froth) knowes he better then I what I have received or doe intend, whether I ſettle upon
+<hi>Garſington</hi> (an other inſtance annexed to the Colledge) or no: whether it were poſſible for me (if I were willing) to hold many Parſona<g ref="char:EOLhyphen"/>ges now or not: or ſay I could and would, knowes he ne<g ref="char:EOLhyphen"/>ver a man (never a worthy man in his eye) who hathhad 15. or 1600<hi rend="sup">l</hi> 
+               <hi>per annum,</hi> and how comes he to be ſo angry with one, and ſo indulgent to another in the ſame cauſe, but the Lord forgive his keenes, not againſt me only, but againſt more deſerving men. Sir I returne to you, I crave pardon for this digreſſion, if this little will ſatisfy you, or any with you, I am glad, if not, I ſhall doe more at more leaſure, for I am reſolved that no Pluraliſt ſhall juſtly quote me. I am now a dying man, and I had rather dye this day, then live one more therein to give juſt offence to the Church of God, to his Grace I now leave you, and</p>
+            <closer>
+               <signed>Am Sir Your Servant in Chriſt R. H.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:161643:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OUR Letter overtook me in my Jorny, you will pardon me, if I anſwer the Con<g ref="char:EOLhyphen"/>tents <hi>currente calamo.</hi>
+            </p>
+            <p n="1">1. To the exception againſt me and my Bretheren for Pluralities, this I ſay for them, I hope it is cauſeleſſe, I have often heard their defence, and know that diverſe of them have bin hardly put to it, but ſomewhat. (I conceive) will be ſhortly done in their Vindication, and I will not anticipate. 2ly, For my ſelfe, I think I may ſay with<g ref="char:EOLhyphen"/>out breach of modeſty, <hi>ſum extra noxam ſed non eſt facile pur<g ref="char:EOLhyphen"/>gatu,</hi> I was a little too confident of a faire and Candid in<g ref="char:EOLhyphen"/>terpretation of my actions and intentions, and therefore made not haſt enough, and that which ſwayed me was this. It was told me that ſome places (offered me) would ſuffer, in caſe uſe were not made of my name for a ſeaſon. 2ly, I was willing (an option being granted, and I be<g ref="char:EOLhyphen"/>ing now to ſettle once for all for ought I knew) to ſee what place would ſuit beſt with my ſtrength for the Charge, and with my health for the Ayre, and thereupon ſome time runne out before I (who was not my ſelfe) could refolve, but it was never intended on any hand, that I ſhould hold any more places then one, nay it never came into my thoughts. There is now from <hi>Oxford</hi> (as you ſeem to intimate) ſomewhat ſaid with no good affection, nay all heightned, <hi>ad Conflandum odium &amp; invidiam,</hi> things ſo re<g ref="char:EOLhyphen"/>preſented as if I had no leſſe then 4 or 5 Livings of great Value at one time, whereas you know that I never had any place (which I could call mine) but only one, the reſt of<g ref="char:EOLhyphen"/>fered me were many (upon ſeverall occaſions) but all
+<pb n="7" facs="tcp:161643:4"/>Sequeſtred, Tenable (yea and Tithable too) at the plea<g ref="char:EOLhyphen"/>ſure of others. What reaſon I had to part ſuddainly with a more certaine, for a leſſe certaine thing, doe you judge. All the reſt of thoſe places (ſo offered) are for ought I know diſpoſed of, ſome I never ſaw, from others I never re<g ref="char:EOLhyphen"/>ceived Penny, the only Sequeſtred place that is in queſtion is <hi>Peterfield,</hi> this was with much nobleneſſe at firſt conferred, with much feare and ſlownes undertaken, ſupplyed (by reaſon of my attendance elſewhere, and the Sequeſtra<g ref="char:EOLhyphen"/>tours and Pariſhioners refuſing to take the means and pleaſe themſelves in the choyce of the Aſſiſtants) with much difficulty, ſubmitted to that honourable Committee againe upon my derignement for <hi>Oxford,</hi> and now (the re<g ref="char:EOLhyphen"/>ſult of <hi>Oxford</hi> buſineſſe being known) to be (according to a former engagement) for ever acquitted, or only reſided up<g ref="char:EOLhyphen"/>on. As for <hi>Hanwell,</hi> when a Succeſſour was named by the Patron, I thought the worke done, but it proved otherwiſe. At preſent I ſay this. 1. I was called thence 2. The place was taken from me. 3. Since it returned, I have made theſe offers, 1. That in-caſe the Pariſhioners would make the place habitable, I would (with leave) there live and dye, or 2. That I would reſigne it to ſuch a man as they (and others concerned) liked, ſo as I might be freed of Delapidations, nay Devaſtations made by Souldi<g ref="char:EOLhyphen"/>ers, and 3. In the meane, till Patron and People could con<g ref="char:EOLhyphen"/>curre in a man, I offered that he who Offciated ſhould take all, Conditionally that he would doe and pay all, there re<g ref="char:EOLhyphen"/>maines but one thing more, and that's this, that I Petition the Parliament either to relieve me in my great loſſes and returne me thither, or elſe put in a ſuflicient man, in caſe there be not a ſpeedy Concurrence, (as I truft there will be now) in ſuch a man as I have ingaged my ſelfe to leave upon the place.
+Thus you have the naked truth repreſented here<g ref="char:EOLhyphen"/>in, what you diſlike I deſire to know that I may Correct it. Sir I am ſo little taken with great places, that my higheſt ambition is ſome private Hoſpitall, and ſo tyred with a Pa<g ref="char:EOLhyphen"/>ſtorall Charge, that I diſlike nothing ſo much in my lott at
+<pb n="8" facs="tcp:161643:5"/>
+               <hi>Oxford,</hi> as that. Hitherto I have bin paſſive in all the places I ever had, and now I would gladly ſit down in ſilence, and goe to my grave in peace, and this is all I can ſtay to ſay to your firſt Quere.</p>
+            <p>Now for your ſecond touching <hi>Oxford,</hi> it is not for me to ſay much: I love the place, I honour diverſe there who are of a different Iudgment in ſome things, and could heartily wiſh, that they would have prevented our Journey thither, and taske there, by a timely Reformation of themſelves, and free concurrence with the Parliament in that neceſſary work, for though you and I and a 1000 more, do honour that our deareſt Mother and do unfainedly deſire (aconcealement of her wants, yea) her greateſt advancement, yet we cannot de<g ref="char:EOLhyphen"/>ny but that there is need of a further Reformation, and that without prejudice to our Oaths and Priviledges, (for ought I knowe) and had that beene done long might the Students for me have enjoyed their Mother, and their Mother them. I thinke I may truely ſay, that there is none put in there by the Parliament, who had not rather ſee the place Reformed, then himſelfe preferred. For my ſelfe, if my places in City and Country be ſo many, ſo rich as they are reported, it may be reaſonably thought, that it is no great preferment for me to quitt them all (as I muſt and will if I ſettle there) for <hi>Trinity Colledge,</hi> but the truth is, I do not think that <hi>Pegaſus</hi> doth beleive that I have ſo much in my hands, nay I make a queſtion whether he would not like it well enough, that I ſhould keep more Li<g ref="char:EOLhyphen"/>vings, ſo I would leave one Colledge, and truely I am not ve<g ref="char:EOLhyphen"/>ry liquoriſh after one. Sir you ſee how apt I am to exceed whil'ſt I conferre with you. I conclude with theſe requeſts, beleive 1. That I am no friend to Nonreſidency and Plura<g ref="char:EOLhyphen"/>lities, 2. That I have not husbanded mens kindneſſes to mine owne advantage, 3. That I defire no place like my old place, <hi>ſi res eſſet integra,</hi> you will now preſent my beſt to all with you, and continue your prayers for</p>
+            <closer>
+               <signed>Your old Friend and Neighbour. <hi>R. H.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
